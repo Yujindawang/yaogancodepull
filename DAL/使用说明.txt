@@ -1,0 +1,11 @@
+#python3.x + pytorch1.7 
+
+pip install -r requirements.txt
+
+cd $ROOT/utils
+sh make.sh
+cd $ROOT/utils/overlaps
+python setup.py build_ext --inplace
+
+
+--> python demo.py --ims_dir ../AllImages
