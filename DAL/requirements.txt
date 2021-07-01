@@ -1,6 +1,3 @@
-Cython==0.29.17
-imgaug==0.4.0
-opencv-python==3.4.3.18
-Pillow
-six
-tqdm
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4381e6993c685557aabdcebdf547cd82d2c23b5122dda817b25af74b2f4844f
+size 70
